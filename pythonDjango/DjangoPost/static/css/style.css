@@ -1,0 +1,12 @@
+body{
+    font-size: 14px;
+    font-family: sans-serif;
+    color: #333;
+    background: #ddd;
+    overflow-x: hidden;
+}
+
+a{
+    text-decoration: none;
+    color: #aaa;
+}
